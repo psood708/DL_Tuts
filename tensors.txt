@@ -1,0 +1,14 @@
+What is a tensor?
+A tensor is a mathematical object that describes a linear relationship between geometric objects, such as vectors and scal
+ars. Tensors are used to describe linear transformations, which are functions that take vectors as input and output vectors. Tensors are used in many areas of mathematics and physics, including differential geometry, relativity, and quantum mechanics.
+
+In the context of deep learning, tensors are used to represent multi-dimensional arrays of numerical values. Tensors are used to represent inputs, outputs, and intermediate results in neural networks. Tensors are used to perform operations such as matrix multiplication, convolution, and pooling, which are essential for deep learn
+ing models.
+
+In summary, tensors are mathematical objects that describe linear relationships between geometric objects, and
+are used to represent multi-dimensional arrays of numerical values in deep learning.
+
+
+
+#1 if in doubt run the code
+#2 explore and experiments
